@@ -210,17 +210,15 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      padding: 0 60px;
-      margin: 0 60px;
-      position: relative;
+      width: 100%;
     }
     
     .form_styles {
       display: flex;
       flex-direction: column;
       gap: 20px;
-      padding: 0 60px;
-      margin: 0 60px;
+      width: 90%;
+      margin: 0 auto;
     }
 
    
