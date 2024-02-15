@@ -212,6 +212,7 @@
       align-items: center;
       padding: 0 60px;
       margin: 0 60px;
+      position: relative;
     }
     
     .form_styles {
