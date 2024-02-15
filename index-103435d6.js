@@ -204,19 +204,25 @@
       padding: 2rem;
       text-align: center;
     }
-    
-    .form_styles {
-      display: flex;
-      flex-direction: column;
-      gap: 20px;
-    }
 
     .contentForm {
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
+      padding: 0 60px;
+      margin: 0 60px;
     }
+    
+    .form_styles {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      padding: 0 60px;
+      margin: 0 60px;
+    }
+
+   
 
     .content_flex {
       display: flex;
