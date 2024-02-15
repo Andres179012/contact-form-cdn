@@ -217,7 +217,7 @@
       display: flex;
       flex-direction: column;
       gap: 20px;
-      width: 90%;
+      width: 95%;
       margin: 0 auto;
     }
 
